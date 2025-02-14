@@ -24,10 +24,9 @@ Stephen Wong, a Chinese Canadian in Vancouver, lived through a period of signifi
 
 ## Contributing
 
-- 1923 Written by Makayla
-- 1939-1947 Written by Ella
+- 1923, 2011-2023 Written by [Makayla](https://www.linkedin.com/in/manyi-chen-225350264/)
+- 1939-1947 Written by [Ella](https://www.linkedin.com/in/junyi-xue-676157253/)
 - 1947-1960 Written by [David](https://github.com/thedavidweng)
-- 2011-2023 Written by Makayla
 
 ## Acknowledgements
 
