@@ -17,7 +17,7 @@ Stephen Wong, a Chinese Canadian in Vancouver, lived through a period of signifi
 
 ## Game Details
 
-- **Perspective**: First-person perspective playing as a character similar to Larry Wong or Larry Wong himself.
+- **Perspective**: First-person perspective playing as a character inspired by Larry Wong and his work _THE FUNERAL_.
 - **Historical Journey**: Players will experience the historical story of Stephen through various significant events in his life.
 - **Dialogue / Actions Choosing**: Players will make choices through dialogues and actions. Some choices will be restricted with explanations to reflect historical realities.
 
